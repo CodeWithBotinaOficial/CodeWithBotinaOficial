@@ -91,7 +91,7 @@
 ### 📺 **YouTube Channel: [@CodeWithBotina](https://www.youtube.com/@CodeWithBotina)**
 
 <img src="https://img.shields.io/badge/Content-Programming_Tutorials-red?style=for-the-badge&logo=youtube" />
-<img src="https://img.shields.io/badge/Focus-Android_C++_Development-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-History_of_software_development-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Goal-100K_Subscribers-yellow?style=for-the-badge" />
 
 **🎬 Latest Series:**
