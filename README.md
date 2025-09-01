@@ -27,7 +27,7 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithBotinaOficial&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithBotinaOficial)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithBotinaOficial&layout=compact&theme=tokyonight)  
 
 ---
