@@ -32,6 +32,18 @@
 
 ---
 
+## 🏛️ Organizations  
+
+### 🔬 [JalaU-Labs](https://github.com/JalaU-Labs)  
+Hands-on programming **labs and exercises** from my studies at **Jala University**.  
+Focus: algorithms, data structures, software design, databases, and core CS concepts.  
+
+### 🎓 [JalaU-Capstones](https://github.com/JalaU-Capstones)  
+Final **capstone projects** developed at **Jala University**, showcasing applied knowledge and real-world problem solving.  
+Focus: end-to-end solutions, teamwork, and system implementation.  
+
+---
+
 ## ✨ Fun Facts  
 
 - ⚡ I believe **code is art** — it should be functional but also elegant.  
@@ -44,9 +56,8 @@
 
 - YouTube: [@CodeWithBotina](https://www.youtube.com/@CodeWithBotina)  
 - Tiktok: [@CodeWithBotina](https://www.tiktok.com/@codewithbotina)  
-- GitHub: [@CodeWithBotina](https://github.com/CodeWithBotinaOficial)
+- GitHub: [@CodeWithBotina](https://github.com/CodeWithBotinaOficial)  
 
 ---
 
 ⭐️ *“Software should not only run — it should inspire confidence in the user and pride in the developer.”*  
-
