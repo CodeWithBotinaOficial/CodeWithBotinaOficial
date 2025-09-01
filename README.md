@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Diego Botina  
 
-![Banner](https://github.com/your-username/your-username/blob/main/assets/banner.png)  
+![Banner](https://github.com/CodeWithBotinaOficial/CodeWithBotinaOficial/blob/main/assets/banner.png)  
 
 ## 🚀 About Me  
 💻 Software Developer passionate about creating **efficient, secure, and scalable solutions**.  
