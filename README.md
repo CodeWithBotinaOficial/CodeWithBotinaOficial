@@ -15,33 +15,6 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **About The Developer**
 
-```cpp
-class DiegoBotina {
-private:
-    std::string passion = "Building efficient, secure & scalable solutions";
-    std::vector<std::string> currentFocus = {"Android C++ Development", "Performance Optimization"};
-    std::string mission = "Design my own programming language & OS by 2030";
-    
-public:
-    void printPhilosophy() {
-        std::cout << "🎨 Code is art — functional and elegant\n";
-        std::cout << "⚡ Always learning, always building\n";
-        std::cout << "🚀 Push performance beyond usual boundaries\n";
-    }
-};
-```
-
-<div align="center">
-
-### 🎯 **Current Objectives**
-| 🔄 **In Progress** | 🎯 **Target** | 📅 **Timeline** |
-|:--:|:--:|:--:|
-| Android C++ Development | Custom Programming Language | 2025-2027 |
-| Performance Optimization | Operating System Design | 2028-2030 |
-| YouTube Content Creation | 100K Subscribers | 2025 |
-
-</div>
-
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> **Tech Arsenal**
