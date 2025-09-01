@@ -95,10 +95,10 @@
 <img src="https://img.shields.io/badge/Goal-100K_Subscribers-yellow?style=for-the-badge" />
 
 **🎬 Latest Series:**
-- 🔥 Android Performance with C++
-- 🏗️ System Architecture Masterclass  
-- ⚡ Code Optimization Techniques
-- 🎨 Clean Code Principles
+- 🚀 OPERATING SYSTEMS: Decoding the BRAIN of Technology
+- 🏗️ Compiler vs. Interpreter 
+- ⚡ Secret Origins: The History of Programming Languages
+- 🎨 Introduction to the World of Development
 
 </div>
 
