@@ -92,7 +92,7 @@
 
 <img src="https://img.shields.io/badge/Content-Programming_Tutorials-red?style=for-the-badge&logo=youtube" />
 <img src="https://img.shields.io/badge/Focus-History_of_software_development-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Goal-100K_Subscribers-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Goal-85_Subscribers-yellow?style=for-the-badge" />
 
 **🎬 Latest Series:**
 - 🚀 OPERATING SYSTEMS: Decoding the BRAIN of Technology
