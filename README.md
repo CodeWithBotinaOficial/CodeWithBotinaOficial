@@ -27,8 +27,8 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yCodeWithBotinaOficial&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithBotinaOficial&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -43,8 +43,8 @@
 ## 📫 Connect With Me  
 
 - YouTube: [@CodeWithBotina](https://www.youtube.com/@CodeWithBotina)  
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-- GitHub: [your-username](https://github.com/your-username)  
+- Tiktok: [@CodeWithBotina](https://www.tiktok.com/@codewithbotina)  
+- GitHub: [@CodeWithBotina](https://github.com/CodeWithBotinaOficial)
 
 ---
 
