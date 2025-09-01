@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Software+Developer+%F0%9F%9A%80;System+Architecture+Expert+%F0%9F%8F%97%EF%B8%8F;Future+OS+Creator+%F0%9F%92%BB;Performance+Optimization+Guru+%E2%9A%A1" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=CodeWithBotinaOficial&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/CodeWithBotinaOficial)
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_CHANNEL_ID?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000&label=SUBSCRIBERS)](https://www.youtube.com/@CodeWithBotina)
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2fUxCTj73uiFlz06bznJbg?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000&label=SUBSCRIBERS)](https://www.youtube.com/@CodeWithBotina)
 
 </div>
 
@@ -145,7 +145,6 @@ public:
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000)](https://www.youtube.com/@CodeWithBotina)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000)](https://www.tiktok.com/@codewithbotina)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000)](https://github.com/CodeWithBotinaOficial)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://linkedin.com/in/diego-botina)
 
 ### 💬 **Let's Build Something Amazing Together!**
 
