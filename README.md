@@ -42,9 +42,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CodeWithBotinaOficial&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CodeWithBotinaOficial&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeWithBotinaOficial&theme=tokyo-night&hide_border=true&area=true)
 
 ### 🔥 **Contribution Streak**
