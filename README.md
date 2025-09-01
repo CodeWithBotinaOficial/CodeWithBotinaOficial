@@ -31,7 +31,7 @@
 
 | Personal Profile | University Labs | Capstone Projects |
 |------------------|-----------------|-------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithBotinaOficial&show_icons=true&theme=tokyonight) | ![Org Labs](https://github-readme-stats.vercel.app/api/pin/?username=JalaU-Labs&repo=lab-data-structures&theme=tokyonight) | ![Org Capstone](https://github-readme-stats.vercel.app/api/pin/?username=JalaU-Capstones&repo=march-of-the-Legion&theme=tokyonight) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithBotinaOficial&theme=tokyonight) | ![Org Labs](https://github-readme-stats.vercel.app/api/pin/?username=JalaU-Labs&repo=lab-data-structures&theme=tokyonight) | ![Org Capstone](https://github-readme-stats.vercel.app/api/pin/?username=JalaU-Capstones&repo=march-of-the-Legion&theme=tokyonight) |
 
 > ⚡ Stats cards for organizations are simulated by highlighting pinned repositories.  
 > This way, visitors can immediately see both **your profile activity** and your **academic contributions**.  
