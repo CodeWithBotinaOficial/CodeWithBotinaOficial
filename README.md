@@ -308,7 +308,7 @@ graph LR
 ### 📺 **[@CodeWithBotina on YouTube](https://www.youtube.com/@CodeWithBotina)**
 
 ![YouTube](https://img.shields.io/badge/Content-Programming_Education-red?style=for-the-badge&logo=youtube)
-![Goal](https://img.shields.io/badge/Goal-85_Subscribers-yellow?style=for-the-badge)
+![Goal](https://img.shields.io/youtube/channel/subscribers/UC2fUxCTj73uiFlz06bznJbg?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000&label=SUBSCRIBERS)
 
 **🎬 Featured Series:**
 - 🖥️ **Operating Systems Explained** - Understanding the brain of technology
