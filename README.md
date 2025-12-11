@@ -329,18 +329,18 @@ graph LR
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeWithBotinaOficial&theme=tokyo-night&hide_border=true&area=true)
 
 ### 🔥 **Contribution Streak**
-![GitHub Streak](https://streak-stats.demolab.com?user=CodeWithBotinaOficial&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeWithBotinaOficial&theme=tokyonight&hide_border=true)
 
 <table>
 <tr>
 <td>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=CodeWithBotinaOficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CodeWithBotinaOficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 </td>
 <td>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithBotinaOficial&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CodeWithBotinaOficial&layout=compact&theme=tokyonight&hide_border=true)
 
 </td>
 </tr>
