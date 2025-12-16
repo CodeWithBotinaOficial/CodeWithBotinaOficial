@@ -8,7 +8,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=CodeWithBotinaOficial&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/CodeWithBotinaOficial)
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2fUxCTj73uiFlz06bznJbg?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000&label=SUBSCRIBERS)](https://www.youtube.com/@CodeWithBotina)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/codewithbotinaoficial/))
 
 </div>
 
